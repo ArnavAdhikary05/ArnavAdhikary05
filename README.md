@@ -24,11 +24,8 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/>
 </div>
-<div align="center">
-    
-# 💫 Hi 👋, I'm **Arnab Adhikary**  
 
-</div>
+# 💫 Hi 👋, I'm **Arnab Adhikary**  
 **A passionate CSE Student || AI/ML Developer || Full-Stack & Automation Enthusiast from India**
 
 Email Me 👉 ✉️ **arnabadhikary35@gmail.com** for Collaboration/Projects or Anything Else. 😊😊
