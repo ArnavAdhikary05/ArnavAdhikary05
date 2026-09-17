@@ -83,8 +83,6 @@ Email Me 👉 ✉️ **arnabadhikary35@gmail.com** for Collaboration/Projects or
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ArnavAdhikary05&icon=2&color=0)](https://visitcount.itsvg.in)
-
----
 ## 💼 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnab-adhikary-96475828b/)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
