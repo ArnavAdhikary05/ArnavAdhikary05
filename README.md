@@ -84,4 +84,9 @@ Email Me 👉 ✉️ **arnabadhikary35@gmail.com** for Collaboration/Projects or
 ---
 [![](https://visitcount.itsvg.in/api?id=ArnavAdhikary05&icon=2&color=0)](https://visitcount.itsvg.in)
 
+---
+### Add me on Linkdin
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="arnab-adhikary-96475828b" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/arnab-adhikary-96475828b?trk=profile-badge">Arnab Adhikary</a></div>
+              
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
